@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\Sectia 1\19\19\bin\Debug\19.exe.config
+C:\Users\LENOVO\Desktop\Sectia 1\19\19\bin\Debug\19.exe
+C:\Users\LENOVO\Desktop\Sectia 1\19\19\bin\Debug\19.pdb
+C:\Users\LENOVO\Desktop\Sectia 1\19\19\obj\Debug\19.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Sectia 1\19\19\obj\Debug\19.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\Sectia 1\19\19\obj\Debug\19.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Sectia 1\19\19\obj\Debug\19.exe
+C:\Users\LENOVO\Desktop\Sectia 1\19\19\obj\Debug\19.pdb
