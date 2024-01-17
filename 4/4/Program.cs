@@ -8,7 +8,7 @@ namespace _4
         {
             Console.WriteLine("Introduceti un an");
             int an = int.Parse(Console.ReadLine());
-            if (an % 4 == 0) { Console.WriteLine("Anul este bisect"); }
+            if (an % 4 == 0 && an % 100 != 0 || an % 400 == 0) { Console.WriteLine("Anul este bisect"); }
             else { Console.WriteLine("Anul nu este bisect"); }
         }
     }
